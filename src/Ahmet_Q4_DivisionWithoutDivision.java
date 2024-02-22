@@ -13,7 +13,6 @@ public class Ahmet_Q4_DivisionWithoutDivision {
     }
 
 
-
     public static void divideWithoutDivisionOperator (double n1, double n2){
         int result = 0;
         if (n2 == 0){
