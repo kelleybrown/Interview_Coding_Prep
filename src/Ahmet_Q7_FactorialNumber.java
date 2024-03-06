@@ -15,6 +15,13 @@ public class Ahmet_Q7_FactorialNumber {
 
     }
 
+    public static int fact(int n){ //second and very efficient way to calculate Factorial.
+        if(n == 1){
+            return 1;
+        }
+        return n * fact(n - 1);
+    }
+
 
 
 }
