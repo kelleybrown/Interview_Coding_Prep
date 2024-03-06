@@ -1,4 +1,4 @@
-public class Ahmet_Q7_Fibonacci {
+public class Ahmet_Q8_Fibonacci {
 
     public static void main(String[] args) {
 
